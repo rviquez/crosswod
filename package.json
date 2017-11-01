@@ -1,0 +1,23 @@
+{
+  "name": "crosswod",
+  "version": "1.0.0",
+  "description": "crosswod landing page",
+  "main": "init.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rviquez/crosswod.git"
+  },
+  "author": "robertoviquez@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rviquez/crosswod/issues"
+  },
+  "homepage": "https://github.com/rviquez/crosswod#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
